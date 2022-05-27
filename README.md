@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 
-Hi! I'm Jesús, a programmer based in Nicaragua, mostly working in Web Development, usually using React, Vue, NodeJS and also Laravel.
+Hi! I'm Jesús, a programmer based in Nicaragua, mostly working in Web Development, usually using React, Vue, NodeJS and Laravel.
 
 Here you'll find some examples of my work as well as stuff I'll code for fun.
 
