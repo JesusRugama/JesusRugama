@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my Profile!
+
+Hi! I'm Jesús, a programmer based in Nicaragua, mostly working in Web Development, usually using React, Vue, NodeJS and also Laravel.
+
+Here you'll find some examples of my work as well as stuff I'll code for fun.
+
+Check out my site jesusrugama.com.
 
 <!--
 **JesusRugama/JesusRugama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
